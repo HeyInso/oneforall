@@ -22,3 +22,7 @@ TOKEN=
 DB_USER=root
 DB_PASS=
 DB_NAME=botperso
+
+---
+
+![Banner](https://user-images.githubusercontent.com/69382509/95672716-6d85eb80-0ba3-11eb-8505-8862a3b42895.gif)

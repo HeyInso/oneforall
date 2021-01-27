@@ -8,13 +8,21 @@ Hey 👋 today i share OneForAll 😞
 
 Bye OneForAll 😞
 
----
+Leak By Kazril & Orumaa & hicwwq
+
+Besoin d'aide ? Join : https://discord.gg/GEhdsMBqeT
+
+⚠️ ATTENTION : N'OUBLIEZ PAS QUE KAZRIL & ORUMAA & HICWWQ VOUS BAISERONT TOUJOURS 😀
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+
 
 CREE UN FICHIER .env 
 
 DANS LE FICHIER METTEZ
 
----
 
 ```
 TOKEN=
@@ -22,8 +30,3 @@ TOKEN=
 DB_USER=root
 DB_PASS=
 DB_NAME=botperso
-```
-
----
-
-![Banner](https://user-images.githubusercontent.com/69382509/95672716-6d85eb80-0ba3-11eb-8505-8862a3b42895.gif)
